@@ -26,11 +26,11 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
+courses:
   - course: BSc Hons in Mathematical Sciences
     institution: Open University
     year: 2007
- - course: PhD in Evolutionary Biology
+  - course: PhD in Evolutionary Biology
     institution: University of Glasgow
     year: 2003
   - course: BA Hons in Biological Sciences
