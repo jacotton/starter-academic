@@ -28,7 +28,6 @@ experience:
     location: Hinxton, UK
     date_start: '2020-07-01'
     date_end: ''
-    description: Researcher in the Parasite Genomics group
         
   - title: Honorary Senior Lecturer
     company: Royal Veterinary College
@@ -36,5 +35,9 @@ experience:
     location: London
     date_start: '2016-07-01'
     date_end: ''
-    description: Collaboration with Joanne Webster on schistosome genetics
+
+  - title: Associate Editor
+    company: PLoS Neglected Tropical Diseases
+    company_url: 'https://journals.plos.org/plosntds/'
+    date_start: '2020-04-29'
 ---
