@@ -73,8 +73,6 @@ highlight_name: false
 ---
 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher working on the genetics and genomics of eukaryotic parasites, particularly on parasites that cause neglected tropical diseases. I particularly enjoy working collaboratively, on projects that have both some implications for reducing the burder of NTDs but also raise interesting questions about the genetics or biology of the parasites themselves, or at least require some fun analyses.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+For the past decade, I have been a senior member of the parasite genomics group at the Wellcome Sanger Institute with Matt Berriman. My early work there was in running reference genome projects for key helminth parasites, and I now run projects that have a comparative or population genomic focus. I have worked on a number of parasite systems, particularly Leishmania, schistosomes, the livestock pathogen Haemonchus contortus and Guinea worm.
