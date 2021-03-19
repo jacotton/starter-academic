@@ -10,7 +10,7 @@ role: Senior Staff Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Wellcome Sanger Isntitute
+- name: Wellcome Sanger Institute
   url: https://www.sanger.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
@@ -75,4 +75,4 @@ highlight_name: false
 
 I am a researcher working on the genetics and genomics of eukaryotic parasites, particularly on parasites that cause neglected tropical diseases. I particularly enjoy working collaboratively, on projects that have both some implications for reducing the burder of NTDs but also raise interesting questions about the genetics or biology of the parasites themselves, or at least require some fun analyses.
 
-For the past decade, I have been a senior member of the parasite genomics group at the Wellcome Sanger Institute with Matt Berriman. My early work there was in running reference genome projects for key helminth parasites, and I now run projects that have a comparative or population genomic focus. I have worked on a number of parasite systems, particularly Leishmania, schistosomes, the livestock pathogen Haemonchus contortus and Guinea worm.
+For the past decade, I have been a senior member of the parasite genomics group at the Wellcome Sanger Institute with Matt Berriman. My early work there was in running reference genome projects for key helminth parasites, and I now run projects that have a comparative or population genomic focus. I have worked on a number of parasite systems, particularly *Leishmania*, schistosomes, the livestock pathogen *Haemonchus contortus* and Guinea worm.
