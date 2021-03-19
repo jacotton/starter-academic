@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "LeishEthiopia"
+title: "Leishmaniasis in Ethiopia"
 summary: ""
 authors: []
 tags: []
