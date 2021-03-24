@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "evolutionary genomics of *Leishmania*"
+title: "evolutionary genomics of Leishmania"
 summary: ""
 authors: []
 tags: []
