@@ -37,7 +37,7 @@ tags: []
 
 featured: true
 
-url_pdf: 'Franssen_etal_2020_GlobalGenomeDiversityOfTheLeishmaniaDonovaniComplex_eLife.pdf'
+url_pdf: 'publication_pdfs/Franssen_etal_2020_GlobalGenomeDiversityOfTheLeishmaniaDonovaniComplex_eLife.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
