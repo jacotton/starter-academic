@@ -9,7 +9,7 @@ date: "2020-09-01T00:00:00Z"
 doi: "10.1016/j.pt.2020.07.005"
 
 publication_types: ["2"]
-publication: In *Trends Parasitol* 36\:719--721
+publication: In *Trends in Parasitology* 36\:719--721
 #publication_short: In *ICW*
 abstract: >
   Genetic exchange between *Leishmania* parasites was demonstrated in sandflies over 10 years ago. Louradour et al. have shown in vitro hybridization of two Leishmania tropica isolates, with the potential to remove a major roadblock to using forward genetics in *Leishmania*, understanding *Leishmania* reproductive biology, and analyzing gene flow in natural populations.
