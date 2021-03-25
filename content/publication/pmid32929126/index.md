@@ -14,7 +14,7 @@ authors:
 - M. A. Domagalska
 
 date: "2020-09-01T00:00:00Z"
-doi: ""
+doi: "10.1038/s41598-020-71882-2"
 
 publication_types: ["2"]
 publication: In *Sci Rep* 10\:15043
@@ -26,7 +26,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/ImamuraMonsieursJaraSandersMaesVanaerschotBerrimanCottonDujardinDomagalska_EvaluationOfWholeGenomeAmplificationAndBioinformaticMethodsForLeishGenomesSingleCells_ScientificReports.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -34,6 +34,17 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: biorxiv
+  icon_pack: ai
+  name: biorxiv
+  url: https://www.biorxiv.org/content/10.1101/2020.02.20.957621v1
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://www.nature.com/articles/s41598-020-71882-2
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

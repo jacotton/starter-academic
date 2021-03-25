@@ -8,7 +8,7 @@ authors:
 date: "2002-08-01T00:00:00Z"
 doi: ""
 
-publication_types: ["2"]
+publication_types: ["1"]
 publication: In *Pac Symp Biocomput* 269\:536--547
 #publication_short: In *ICW*
 abstract: >
@@ -18,7 +18,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/PageCotton_2001_VertebratePhylogenomicsReconciledTreesAndGeneDuplications_PSBbook.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -26,6 +26,19 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Rod Page
+  url: https://twitter.com/rdmpage?lang=en
+- icon: wikipedia-w
+  icon_pack: fab
+  name: Rod Page
+  url: https://en.wikipedia.org/wiki/Roderic_D._M._Page
+- icon:
+  icon_pack:
+  name: Pacific Symposium on Biocomputing
+  url: https://psb.stanford.edu/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

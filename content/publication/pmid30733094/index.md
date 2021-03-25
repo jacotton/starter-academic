@@ -18,7 +18,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/DoyleCotton_2019_GenomeWideApproachesToInvestigateAnthelminthicResistance_TrendsInParasitology.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -26,7 +26,15 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
+links:
+- icon:  book-open
+  icon_pack: fas
+  name: publisher
+  url: https://www.nature.com/articles/s42003-020-01377-3
+- icon: male
+  icon_pack: fas
+  name: Steve Doyle
+  url: https://stephenrdoyle.github.io/
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:

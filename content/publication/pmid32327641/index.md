@@ -27,7 +27,7 @@ authors:
 - E. Ghedin
 
 date: "2020-04-01T00:00:00Z"
-doi: ""
+doi: "10.1038/s41467-020-15654-6"
 
 publication_types: ["2"]
 publication: In *Nat Commun* 11\:1964
@@ -39,7 +39,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/FosterEtAl_2020_SexChromosomeEvolutionInParasiticNematodesOfHumans_NatureCommunications.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,6 +47,15 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://www.nature.com/articles/s41467-020-15654-6
+- icon: female
+  icon_pack: fas
+  name: Alex Grote
+  url: https://sites.google.com/view/alextgrote/home
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

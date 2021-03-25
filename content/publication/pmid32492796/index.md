@@ -24,7 +24,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/OKeefeHaleCottonYardleyGuptaMurdanCroft_2020_Novel2Dand3DAssaystoDeterminetheActivityofAnti-LeishmanialDrugs_microorganisms.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -32,6 +32,12 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://www.mdpi.com/2076-2607/8/6/831
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
