@@ -16,7 +16,7 @@ authors:
 - J. S. Gilleard
 
 date: "2019-10-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.ijpara.2019.05.012"
 
 publication_types: ["2"]
 publication: In *Int J Parasitol* 49\:847--858
@@ -28,7 +28,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/RezansoffetAl_2019_ConfoundingEffectsOfHighGeneticDiversityOnTheDeterminationAndInterpretationOfDifferentialGeneExpressionAnalysisInTheParasiticNematodeHaemonchusContortus_InternationalJournalOfParasitology.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -36,7 +36,15 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
+links:
+- icon:  book-open
+  icon_pack: fas
+  name: publisher
+  url: https://www.sciencedirect.com/science/article/pii/S002075191930205X
+- icon: flask
+  icon_pack: fas
+  name: Gilleard lab
+  url: https://vet.ucalgary.ca/labs/jsgilleard/home
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:

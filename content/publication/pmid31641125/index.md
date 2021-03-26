@@ -11,7 +11,7 @@ authors:
 - admin
 
 date: "2019-10-01T00:00:00Z"
-doi: ""
+doi: "10.1038/s41467-019-12695-4"
 
 publication_types: ["2"]
 publication: In *Nat Commun* 10\:4811
@@ -23,7 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/SalleDoyleCortetCabaretBerrimanHolroydCotton_2019_TheGlobalDiversityOfTheMajorParasiticNematodeHaemonchusContortusIsShapedByHumanInterventionAndClimate_NatureCommunications.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -31,6 +31,16 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon:  open-access
+  icon_pack: ai
+  name: publisher
+  url: https://www.nature.com/articles/s41467-019-12695-4
+- icon: male
+  icon_pack: fas
+  name: Guillaume Sallé
+  url: https://www6.val-de-loire.inrae.fr/infectiologie-santepublique_eng/Staff-members/Parasitology-scientific-staff/Salle
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
