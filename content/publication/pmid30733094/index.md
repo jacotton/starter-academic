@@ -6,7 +6,7 @@ authors:
 - admin
 
 date: "2019-04-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.pt.2019.01.004"
 
 publication_types: ["2"]
 publication: In *Trends Parasitol* 35\:289--301
@@ -35,6 +35,7 @@ links:
   icon_pack: fas
   name: Steve Doyle
   url: https://stephenrdoyle.github.io/
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:

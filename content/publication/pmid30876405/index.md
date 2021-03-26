@@ -19,7 +19,7 @@ authors:
 - J. S. Gilleard
 
 date: "2019-03-01T00:00:00Z"
-doi: ""
+doi: "10.1186/s12864-019-5592-6"
 
 publication_types: ["2"]
 publication: In *BMC Genomics* 20\:218
@@ -31,7 +31,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/DoyleIllingworthEtAl_2019_PopulationGenomicAndEvolutionaryModellingRevealASingleMajorQTLForIvermectinDrugResistanceInThePathogenicNematodeHaemonchusContortus_BMCGenomics.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -39,7 +39,23 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
+links:
+- icon:  book-open
+  icon_pack: fas
+  name: publisher
+  url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5592-6
+- icon: male
+  icon_pack: fas
+  name: Steve Doyle
+  url: https://stephenrdoyle.github.io/
+- icon: male
+  icon_pack: fas
+  name: Chris Illingworth
+  url: https://www.mrc-bsu.cam.ac.uk/people/in-alphabetical-order/h-to-m/chris-illingworth/
+- icon: flask
+  icon_pack: fas
+  name: Gilleard lab
+  url: https://vet.ucalgary.ca/labs/jsgilleard/home
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
