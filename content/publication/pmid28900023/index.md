@@ -14,7 +14,7 @@ authors:
 - M. E. Grigg
 
 date: "2017-09-01T00:00:00Z"
-doi: ""
+doi: "10.1128/mBio.01393-17"
 
 publication_types: ["2"]
 publication: In *mBio* 8
@@ -26,7 +26,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/IantornoDurrantKhanSandersBeverleyWarrenBerrimanSacksCottonGrigg_2017_GeneExpressionInLeishmaniaIsRegulatedPredominantlyByGeneExpression_mBio.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -34,6 +34,15 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://mbio.asm.org/content/8/5/e01393-17
+- icon: male
+  icon_pack: fas
+  name: Michael Grigg
+  url: https://www.niaid.nih.gov/research/michael-e-grigg-phd
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

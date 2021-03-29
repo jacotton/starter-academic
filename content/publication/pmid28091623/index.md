@@ -15,7 +15,7 @@ authors:
 - D. C. Bartholomeu
 
 date: "2017-01-01T00:00:00Z"
-doi: ""
+doi: "10.1038/srep40804"
 
 publication_types: ["2"]
 publication: In *Sci Rep* 7\:40804
@@ -27,7 +27,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/ValdiviaAlmeidaRoattReis-CunhaPereiraGontjoFujiwaaReisSandersCottonBartholomeu_2017_ComparativeGenomicsOfCanineIsolatedLeishmaniaAmazonensis_ScientificReports.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -35,6 +35,19 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://www.nature.com/articles/srep40804
+- icon: researchgate
+  icon_pack: ai
+  name: Hugo Valdivia
+  url: https://www.researchgate.net/profile/Hugo-Valdivia
+- icon: female
+  icon_pack: fas
+  name: Daniella Bartholomeu
+  url: http://somos.ufmg.br/professor/daniella-castanheira-bartholomeu
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

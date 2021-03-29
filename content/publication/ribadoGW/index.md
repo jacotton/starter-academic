@@ -52,7 +52,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: publication_pdfs/RibadoEtAl_2020_LinkedSurveillanceandGeneticDatauncoversProgrammaticallyRelevantGeographicScaleofGuineaWormtransmissioninChad.medRxiv.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -65,6 +65,10 @@ links:
   icon_pack: ai
   name: medRxiv
   url: https://www.medrxiv.org/content/10.1101/2020.10.05.20207324v1
+- icon: twitter
+  icon_pack: fab
+  name: Jessica Ribado
+  url: https://twitter.com/jessicaribado
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -79,7 +83,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [guineaworm]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

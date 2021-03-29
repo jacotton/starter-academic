@@ -26,7 +26,7 @@ authors:
 - T. D. Otto
 
 date: "2017-02-01T00:00:00Z"
-doi: ""
+doi: "10.1038/nature21038"
 
 publication_types: ["2"]
 publication: In *Nature* 542\:101--104
@@ -38,7 +38,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/RutledgeBohme_etal_PlasmodiumMalariaeAndPovaleGenomes_Nature_2017.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,6 +46,15 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: book-open
+  icon_pack: fas
+  name: publisher
+  url: https://www.nature.com/articles/nature21038
+- icon: male
+  icon_pack: fas
+  name: Thomas Otto
+  url: https://www.gla.ac.uk/researchinstitutes/iii/staff/thomasdanotto/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

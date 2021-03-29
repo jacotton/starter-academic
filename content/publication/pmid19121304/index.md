@@ -7,19 +7,19 @@ authors:
 - A. Stollewerk
 
 date: "2009-03-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.ydbio.2008.12.004"
 
 publication_types: ["2"]
-publication: In *Dev Biol* 327\:121--131
+publication: In *Developmental Biology* 327\:121--131
 #publication_short: In *ICW*
 abstract: >
-  In the spider Cupiennius salei the mechanosensory organs of the legs are generated from epithelial sensory precursor groups which are specified by elevated levels of the achaete-scute homologues CsASH1 and CsASH2. Neural precursors delaminate from the groups and occupy positions basal and proximal to the accessory cells which remain in the epithelium. Here we analyse the role of Notch signalling and numb function in the development of the mechanosensory organs of the spider. We show that Notch signalling is required for several processes: the selection of the sensory precursor groups, the maintenance of undifferentiated sensory precursors, the binary cell fate decision between accessory and neural fate and the differentiation of sensory neurons. Our data suggest that Numb antagonises Notch signalling in the neural precursors, which results in activation of the neural cell fate determinant Prospero and delamination of the neural precursors from the epithelium. Prospero is expressed de novo in sensory neural precursors and we assume that the expression of the gene is regulated by the Notch to Numb ratio within the sensory precursors. Interestingly, the spider numb RNAi phenotype resembles the numb/numblike loss of function phenotypes in the mammalian nervous system, indicating that the interaction between Notch signalling and Numb might play a similar role in both systems.
+  In the spider *Cupiennius salei* the mechanosensory organs of the legs are generated from epithelial sensory precursor groups which are specified by elevated levels of the achaete-scute homologues CsASH1 and CsASH2. Neural precursors delaminate from the groups and occupy positions basal and proximal to the accessory cells which remain in the epithelium. Here we analyse the role of Notch signalling and numb function in the development of the mechanosensory organs of the spider. We show that Notch signalling is required for several processes: the selection of the sensory precursor groups, the maintenance of undifferentiated sensory precursors, the binary cell fate decision between accessory and neural fate and the differentiation of sensory neurons. Our data suggest that Numb antagonises Notch signalling in the neural precursors, which results in activation of the neural cell fate determinant Prospero and delamination of the neural precursors from the epithelium. Prospero is expressed de novo in sensory neural precursors and we assume that the expression of the gene is regulated by the Notch to Numb ratio within the sensory precursors. Interestingly, the spider numb RNAi phenotype resembles the numb/numblike loss of function phenotypes in the mammalian nervous system, indicating that the interaction between Notch signalling and Numb might play a similar role in both systems.
 
 tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/GoldCottonStollewerk_2009_TheRoleOfNotchSignallingAndNumbFunctionInMechanosensoryOrganFormationInTheSpiderCupienniusSalei_DevelopmentalBiology.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -27,6 +27,15 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: book-open
+  icon_pack: fas
+  name: publisher
+  url: https://www.sciencedirect.com/science/article/pii/S0012160608013961
+- icon: female
+  icon_pack: fas
+  name: Angelika Stollewerk
+  url: https://www.qmul.ac.uk/sbcs/staff/angelikastollewerk.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

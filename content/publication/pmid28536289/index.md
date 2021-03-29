@@ -22,7 +22,7 @@ authors:
 - M. A. Domagalska
 
 date: "2017-05-01T00:00:00Z"
-doi: ""
+doi: "10.1128/mBio.00599-17"
 
 publication_types: ["2"]
 publication: In *mBio* 8
@@ -34,7 +34,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/DumetzEtAl_ModulationOfAneuploidyInLeishmaniaDonovaniDuringAdaptationToDifferentEnvironmentsAndImpactOnGeneExpression_MBio.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,6 +42,15 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://mbio.asm.org/content/8/3/e00599-17
+- icon: twitter
+  icon_pack: fab
+  name: Franck Dumetz
+  url: https://twitter.com/franckdumetz
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

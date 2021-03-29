@@ -5,7 +5,7 @@ authors:
 - admin
 
 date: "2017-05-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.pt.2017.02.002"
 
 publication_types: ["2"]
 publication: In *Trends Parasitol* 33\:341--344
@@ -17,7 +17,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/Cotton_2017_TheExpandingWorldOfHumanLeishmaniasis_TrendsInParasitology.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -25,6 +25,11 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: book-open
+  icon_pack: fas
+  name: publisher
+  url: https://www.cell.com/trends/parasitology/fulltext/S1471-4922(17)30045-4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
