@@ -16,7 +16,7 @@ authors:
 - admin
 
 date: "2016-02-01T00:00:00Z"
-doi: ""
+doi: "10.1038/srep20954"
 
 publication_types: ["2"]
 publication: In *Sci Rep* 6\:20954
@@ -28,7 +28,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/CrellenEtAl_2016_WholeGenomeResequencingOfTheHumanParasiteSchistosomaMansoniRevealsPopulationHistoryAndEffectsOfSelection_ScientificReports.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -36,6 +36,15 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://www.nature.com/articles/srep20954
+- icon: male
+  icon_pack: fas
+  name: Tom Crellen
+  url: https://www.bdi.ox.ac.uk/Team/thomas-crellen
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -42,7 +42,7 @@ authors:
 - M. Berriman
 
 date: "2016-03-01T00:00:00Z"
-doi: ""
+doi: "doi.org/10.1038/ng.3495"
 
 publication_types: ["2"]
 publication: In *Nat Genet* 48\:299--307
@@ -54,7 +54,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/HuntTsaiCoghlanReidHolroydFothEtAl_2016_TheGenomicBasisOfParasitismInTheStrongyloidesCladeOfNematodes_NatureGenetics.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,6 +62,19 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: book-open
+  icon_pack: fas
+  name: publisher
+  url: https://www.nature.com/articles/ng.3495
+- icon: flask
+  icon_pack: fas
+  name: Hunt lab
+  url: https://www.vickyhuntlab.org
+- icon: flask
+  icon_pack: fas
+  name: Viney lab
+  url: https://markviney.com/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

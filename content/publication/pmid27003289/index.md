@@ -37,19 +37,19 @@ authors:
 - admin
 
 date: "2016-03-01T00:00:00Z"
-doi: ""
+doi: "10.7554/eLife.12613"
 
 publication_types: ["2"]
 publication: In *Elife* 5
 #publication_short: In *ICW*
 abstract: >
-  Leishmania donovani causes visceral leishmaniasis (VL), the second most deadly vector-borne parasitic disease. A recent epidemic in the Indian subcontinent (ISC) caused up to 80% of global VL and over 30,000 deaths per year. Resistance against antimonial drugs has probably been a contributing factor in the persistence of this epidemic. Here we use whole genome sequences from 204 clinical isolates to track the evolution and epidemiology of L. donovani from the ISC. We identify independent radiations that have emerged since a bottleneck coincident with 1960s DDT spraying campaigns. A genetically distinct population frequently resistant to antimonials has a two base-pair insertion in the aquaglyceroporin gene LdAQP1 that prevents the transport of trivalent antimonials. We find evidence of genetic exchange between ISC populations, and show that the mutation in LdAQP1 has spread by recombination. Our results reveal the complexity of L. donovani evolution in the ISC in response to drug treatment.
+  *Leishmania donovani* causes visceral leishmaniasis (VL), the second most deadly vector-borne parasitic disease. A recent epidemic in the Indian subcontinent (ISC) caused up to 80% of global VL and over 30,000 deaths per year. Resistance against antimonial drugs has probably been a contributing factor in the persistence of this epidemic. Here we use whole genome sequences from 204 clinical isolates to track the evolution and epidemiology of *L. donovani* from the ISC. We identify independent radiations that have emerged since a bottleneck coincident with 1960s DDT spraying campaigns. A genetically distinct population frequently resistant to antimonials has a two base-pair insertion in the aquaglyceroporin gene LdAQP1 that prevents the transport of trivalent antimonials. We find evidence of genetic exchange between ISC populations, and show that the mutation in LdAQP1 has spread by recombination. Our results reveal the complexity of *L. donovani* evolution in the ISC in response to drug treatment.
 
 tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/ImamuraEtAl_2016_EvolutionaryGenomicsofEpidemicVisceralLeishmaniasisInTheIndianSubcontinent_eLife.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,6 +57,20 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://elifesciences.org/articles/12613
+- icon: twitter
+  icon_pack: fab
+  name: Hideo Imamura
+  url: https://twitter.com/hideoimamura
+- icon: twitter
+  icon_pack: fab
+  name: Jean-Claude Dujardin
+  url: https://twitter.com/DujardinBiomed
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

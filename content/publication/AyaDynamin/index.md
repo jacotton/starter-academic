@@ -69,7 +69,11 @@ links:
   icon_pack: ai
   name: bioRxiv
   url: https://www.biorxiv.org/content/10.1101/2021.01.05.425522v1
-
+- icon: twitter
+  icon_pack: fab
+  name: Jean-Claude Dujardin
+  url: https://twitter.com/DujardinBiomed
+  
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

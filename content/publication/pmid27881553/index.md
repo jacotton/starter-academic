@@ -44,7 +44,7 @@ links:
   icon_pack: ai
   name: publisher
   url: https://mbio.asm.org/content/7/6/e02028-16
-- icon: female
+- icon: male
   icon_pack: fas
   name: Sasi Bennuru
   url: https://www.niaid.nih.gov/research/sasisekhar-bennuru-phd
