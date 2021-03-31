@@ -23,7 +23,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/ParkerTsagkogeogaCottonLiuProveroStupkaRossiter_2013_GenomeWideSignaturesOfConvergentEvolutionInEcholocatingMammals_Nature.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -31,6 +31,19 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: book-open
+  icon_pack: fas
+  name: publisher
+  url: https://www.nature.com/articles/nature12511
+- icon: twitter
+  icon_pack: fab
+  name: Joe Parker
+  url: https://twitter.com/gtsagkogeorga
+- icon: male
+  icon_pack: fas
+  name: Steve Rossiter
+  url: https://evolve.sbcs.qmul.ac.uk/rossiter/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

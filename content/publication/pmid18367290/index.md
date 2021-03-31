@@ -7,7 +7,7 @@ authors:
 - D. Pisani
 
 date: "2008-05-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.tree.2008.01.008"
 
 publication_types: ["2"]
 publication: In *Trends Ecol Evol* 23\:276--281
@@ -19,7 +19,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/McInerneyCottonPisani_2008_TheProkaryoticTreeOfLifePastPresent...andFuture_TrendsInEcologyAndEvolution.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -27,6 +27,21 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: book-open
+  icon_pack: fas
+  name: publisher
+  url: https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(08)00099-2
+- icon: wikipedia-w
+  icon_pack: fab
+  name: James McInerney
+  url: https://en.wikipedia.org/wiki/James_O._McInerney
+- icon: flask
+  icon_pack: fas
+  name: McInerney lab
+  url: http://mcinerneylab.com/
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

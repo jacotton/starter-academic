@@ -9,7 +9,7 @@ authors:
 - S. J. Rossiter
 
 date: "2013-01-01T00:00:00Z"
-doi: ""
+doi: "10.1371/journal.pone.0061998"
 
 publication_types: ["2"]
 publication: In *PLoS One* 8\:e61998
@@ -21,7 +21,7 @@ tags: []
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'publication_pdfs/DaviesBatesMaryantoCottonRossiter_2013_TheEvolutionOfBatVestibularSystemsInTheFaceOfPotentialAntagonisticSelectionPressuresForFlightAndEcholocation_PLoSOne.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -29,6 +29,20 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061998
+- icon: female
+  icon_pack: fas
+  name: Kalina Davies
+  url: https://evolve.sbcs.qmul.ac.uk/rossiter/kalina-davies/
+- icon: male
+  icon_pack: fas
+  name: Steve Rossiter
+  url: https://evolve.sbcs.qmul.ac.uk/rossiter/
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
