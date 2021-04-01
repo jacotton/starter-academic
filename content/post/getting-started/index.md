@@ -1,20 +1,19 @@
 ---
 title: New website
 subtitle: under construction
-date: 2020-12-13T00:00:00Z
+date: 2021-03-19T00:00:00Z
 summary: ""
 draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
-tags:
-  - Academic
+lastmod: 2021-03-19T00:00:00Z
+tags: []
 categories:
   - Website
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
