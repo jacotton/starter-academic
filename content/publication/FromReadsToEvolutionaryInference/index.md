@@ -18,7 +18,7 @@ publishDate: 2021-03-31T11:59:19+01:00
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "in Next Generation Systematics"
+publication: "in *Next Generation Systematics*, P. Olson, J. Hughes and J. Cotton, (eds)"
 publication_short: ""
 
 abstract: ""
