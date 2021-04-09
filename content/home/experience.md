@@ -26,7 +26,7 @@ experience:
     company: Wellcome Sanger Institute
     company_url: 'www.sanger.ac.uk'
     location: Hinxton, UK
-    date_start: '2020-07-01'
+    date_start: '2010-07-01'
     date_end: ''
         
   - title: Honorary Senior Lecturer
