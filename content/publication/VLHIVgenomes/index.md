@@ -59,8 +59,14 @@ links:
   icon_pack: ai
   name: medRxiv
   url: https://www.medrxiv.org/content/10.1101/2021.04.01.21254750v1
-
-
+- icon: twitter
+  icon_pack: fab
+  name: Yegnasew Takele
+  url: https://twitter.com/YegnasewT
+- icon: twitter
+  icon_pack: fab
+  name: Suse Franssen
+  url: https://twitter.com/susefranssen
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
