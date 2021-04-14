@@ -48,7 +48,7 @@ url_pdf: 'publication_pdfs/Doyle_EtAl_2020_GenomicAndtranscriptomicVariationDefi
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: anthelminthics
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -74,7 +74,7 @@ caption: ''
 focal_point: ""
 preview_only: false
 
-projects: []
+projects: [anthelminthics]
 #- example woudl ref. project in contents/project/example/index.md
 
 slides: ""
