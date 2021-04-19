@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+weight: 4
 title: "Guinea worm eradication genomics"
 summary: ""
 authors: []

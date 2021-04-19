@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+weight: 5
 title: "building reference genome and transcriptome resources"
 summary: ""
 authors: []

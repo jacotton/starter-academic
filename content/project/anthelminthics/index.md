@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+weight: 2
 title: "genetics of anthelminthic drug resistance"
 summary: ""
 authors: []

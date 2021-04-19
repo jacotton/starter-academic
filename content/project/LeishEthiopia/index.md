@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
-
+weight: 1
 title: "Leishmaniasis in Ethiopia"
 summary: ""
 authors: []
