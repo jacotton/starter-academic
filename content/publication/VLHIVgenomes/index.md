@@ -12,7 +12,7 @@ authors:
 - admin
 
 date: 2021-04-07T15:11:55+01:00
-doi: "10.1101/2021.04.01.21254750"
+doi: "10.1128/mBio.00971-21"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-04-07T15:11:55+01:00
@@ -21,10 +21,10 @@ publishDate: 2021-04-07T15:11:55+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "medRxiv"
+publication: "In *mBio* 12\:3"
 publication_short: ""
 
 abstract: >
@@ -45,7 +45,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication_pdfs/FranssenTakeleAdemSandersMullerKropfCotton_2021_DiversityandwithinhostevolutionofparasitesfromVLandVLHIVpatientsinNorthernEthiopia_medRxiv.pdf
+url_pdf: publication_pdfs/FranssenTakeleAdemSandersMullerKropfCotton_2021_DiversityandwithinhostevolutionofparasitesfromVLandVLHIVpatientsinNorthernEthiopia_mBio.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -55,6 +55,10 @@ url_source:
 url_video:
 
 links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://journals.asm.org/doi/10.1128/mBio.00971-21
 - icon:  biorxiv
   icon_pack: ai
   name: medRxiv
