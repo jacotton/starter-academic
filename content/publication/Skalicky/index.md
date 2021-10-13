@@ -67,7 +67,7 @@ links:
   name: publisher
   url: https://www.mdpi.com/2076-0817/10/6/702
 - icon: male
-  icon_pack: fab
+  icon_pack: fas
   name: Tomáš Skalický
   url: https://www.paru.cas.cz/en/staff/profile/21/
 - icon: flask

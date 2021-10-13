@@ -64,7 +64,6 @@ featured: false
 
 url_pdf: publication_pdfs/BergerCrellen_UgandanSchistoGenomes.pdf
 url_code: https://github.com/duncanberger/PZQ_POPGEN
-url_code: https://github.com/jacotton/ERR_mixed_model
 url_dataset:
 url_poster:
 url_project:
@@ -81,6 +80,10 @@ links:
   icon_pack: fab
   name: Duncan Berger
   url: https://twitter.com/duncan_berger
+- icon: github
+  icon_pack: fab
+  name: ERR code
+  url:  https://github.com/jacotton/ERR_mixed_model
 - icon: male
   icon_pack: fas
   name: Tom Crellen
