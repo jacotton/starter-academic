@@ -24,7 +24,7 @@ publishDate: 2021-04-07T15:11:55+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *mBio* 12\:3"
+publication: In *mBio* 12\:3
 publication_short: ""
 
 abstract: >
