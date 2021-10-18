@@ -29,7 +29,7 @@ publishDate: 2021-03-25T19:05:50Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *PLoS Neglected Tropical Diseases* 15(7)\: e0009609"
+publication: In *PLoS Neglected Tropical Diseases* 15\:e0009609
 publication_short: ""
 
 abstract: >
