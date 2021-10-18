@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Diversity and within-host evolution of parasites from VL and VL/HIV patients in Northern Ethiopia"
+title: "Diversity and Within-Host Evolution of Leishmania donovani from Visceral Leishmaniasis Patients with and without HIV Coinfection in Northern Ethiopia"
 authors:
 - S. U. Franssen
 - Y. Takele
