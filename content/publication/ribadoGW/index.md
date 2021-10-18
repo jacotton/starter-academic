@@ -16,8 +16,8 @@ authors:
 - G. Chabot-Couture
 - J. L. Proctor
 
-date: 2020-10-07T19:05:50Z
-doi: ""
+date: 2020-07-26T19:05:50Z
+doi: "10.1371/journal.pntd.0009609"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-25T19:05:50Z
@@ -29,7 +29,7 @@ publishDate: 2021-03-25T19:05:50Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "medRxiv"
+publication: "In *PLoS Neglected Tropical Diseases* 15(7)\: e0009609"
 publication_short: ""
 
 abstract: >
@@ -61,6 +61,10 @@ url_slides:
 url_source:
 url_video:
 links:
+- icon: book-open
+  icon_pack: fas
+  name: publisher
+  url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009609
 - icon:  biorxiv
   icon_pack: ai
   name: medRxiv
