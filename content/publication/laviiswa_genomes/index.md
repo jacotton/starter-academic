@@ -30,7 +30,7 @@ publishDate: 2021-12-16T13:34:23Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "medRxiv"
+publication: "bioRxiv"
 publication_short: ""
 
 abstract: >
