@@ -1,3 +1,6 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: "Genome-wide analysis of Schistosoma mansoni reveals population structure and praziquantel drug selection pressure within Ugandan hot-spot communities"
 authors:
 - T. J. Vianney
