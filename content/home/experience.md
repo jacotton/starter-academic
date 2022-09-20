@@ -26,7 +26,7 @@ experience:
     company: University of Glasgow
     company_url: 'www.gla.ac.uk'
     location: Glasgow, Scotland
-    date_start: '2022-04-1'
+    date_start: '2022-04-01'
     date_end: ''
 
   - title: Senior Staff Scientist
