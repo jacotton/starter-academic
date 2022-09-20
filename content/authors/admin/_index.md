@@ -6,12 +6,12 @@ title: James Cotton
 superuser: true
 
 # Role/position/tagline
-role: Senior Staff Scientist
+role: Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Wellcome Sanger Institute
-  url: https://www.sanger.ac.uk
+- name: School of Biodiversty, One Health and Veterinary Medicine, University of Glasgow
+  url: https://www.gla.ac.uk/schools/bohvm/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in the genomics, and particularly population genomics of parasites, particularly those that cause neglected tropical diseases
@@ -75,4 +75,4 @@ highlight_name: true
 
 I am a researcher working on the genetics and genomics of eukaryotic parasites, particularly on parasites that cause neglected tropical diseases. I particularly enjoy working collaboratively, on projects that have both some implications for reducing the burder of NTDs but also raise interesting questions about the genetics or biology of the parasites themselves, or at least require some fun analyses.
 
-For the last ten years, I have been a senior member of the parasite genomics group at the Wellcome Sanger Institute with Matt Berriman. My research has focused on building genomic data resources for eukaryotic parasites, and then using those tools to understand various aspects of parasite biology. I am particularly interested in generating large-scale data on parasite genetic variation, and in understanding parasite population genetics, evolution and epidemiology. I have worked on quite a wide range of organisms, particularly *Leishmania*, the nematodes *Haemonchus contortus* and Guinea worm (*Dracunculus medinensis*), and recently *Schistosoma*.
+I am now a Professor in the [School of Biodiversity, One Health and Veterinary Medicine](https://www.gla.ac.uk/schools/bohvm/) at the University of Glasgow. I am also a member of the [Wellcome Centre for Integrative Parasitology](https://www.gla.ac.uk/research/az/wcip/). Before moving here in 2022, I was a senior member of the parasite genomics group at the [Wellcome Sanger Institute](https://www.sanger.ac.uk/) with Matt Berriman for over 10 years. My research has focused on building genomic data resources for eukaryotic parasites, and then using those tools to understand various aspects of parasite biology. I am particularly interested in generating large-scale data on parasite genetic variation, and in understanding parasite population genetics, evolution and epidemiology. I have worked on quite a wide range of organisms, particularly *Leishmania*, the nematodes *Haemonchus contortus* and Guinea worm (*Dracunculus medinensis*), and recently *Schistosoma*.
