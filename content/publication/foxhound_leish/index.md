@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Foxhound_leish"
+title: "Geographic Origin and Vertical Transmission of Leishmania infantum Parasites in Hunting Hounds, United States"
 authors:
 - S. U. Franssen
 - M. J. Sanders
@@ -22,8 +22,8 @@ publishDate: 2024-04-16T19:27:30+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: In *Emerging Infectious Diseases* 2022 28(6)\:1211–1223.
+publication_short: In *Emerg Infect Dis*
 
 abstract: >
   Vertical transmission of leishmaniasis is common but is difficult to study against the background of pervasive vector transmission. We present genomic data from dogs in the United States infected with Leishmania infantum parasites; these infections have persisted in the apparent absence of vector transmission. We demonstrate that these parasites were introduced from the Old World separately and more recently than L. infantum from South America. The parasite population shows unusual genetics consistent with a lack of meiosis: a high level of heterozygous sites shared across all isolates and no decrease in linkage with genomic distance between variants. Our data confirm that this parasite population has been evolving with little or no sexual reproduction. This demonstration of vertical transmission has profound implications for the population genetics of Leishmania parasites. When investigating transmission in complex natural settings, considering vertical transmission alongside vector transmission is vital.
