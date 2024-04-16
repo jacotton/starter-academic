@@ -43,7 +43,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: 'publication_pdfs/FranssenEtAl_2022_GeographicOriginandVerticalTransmissionofLeishmaniainfantumParasitesinHuntingHounds_EmergingInfectiousDiseases.pdf
 url_code:
 url_dataset:
 url_poster:
