@@ -9,7 +9,7 @@ date: "2022-03-01T00:00:00Z"
 doi: ""
 
 publication_types: ["2"]
-publication: In *Trends in Parasitology* 38(5):351-352
+publication: In *Trends in Parasitology* 38(5)\:351-352
 #publication_short: In *ICW*
 abstract: >
   TThe anthelmintic praziquantel (PZQ) is an essential tool in controlling schistosomiasis, so reports of reduced PZQ efficacy are of great public health concern. Le Clec'h et al. recently identified a gene responsible for PZQ resistance in experimentally selected resistant Schistosoma mansoni. The importance of this locus in natural infections remains to be established.
