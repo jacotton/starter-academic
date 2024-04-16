@@ -59,7 +59,7 @@ links:
 - icon: female
   icon_pack: fas
   name: Christy Petersen
-  url: https://www.public-health.uiowa.edu/people/christine-petersen/
+  url: https://petersen.lab.uiowa.edu/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
