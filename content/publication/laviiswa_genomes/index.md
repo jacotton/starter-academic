@@ -17,8 +17,8 @@ authors:
 - A. M. Elliott
 - M. Berriman
 - admin
-date: 2022-01-27T13:34:23Z
-doi: "10.1101/2021.12.14.21267767"
+date: 2022-08-18T13:34:23Z
+doi: "10.1371/journal.pntd.0010188"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-12-16T13:34:23Z
@@ -27,10 +27,10 @@ publishDate: 2021-12-16T13:34:23Z
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv"
+publication: In *PLoS Neglected Tropical Diseases* 16(8)\:e0010188.
 publication_short: ""
 
 abstract: >
@@ -52,7 +52,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication_pdfs/TushabeEtAl_2022_GenomeWideAnalysisofSchistosomaMansoniRevealspopulationstructureandpraziquanteldrugselectionpressurewithinUgandanhotspotcommunities_bioRxiv.pdf
+url_pdf: publication_pdfs/TushabeEtAl_2022_GenomeWideAnalysisofSchistosomaMansoniRevealspopulationstructureandpraziquanteldrugselectionpressurewithinUgandanhotspotcommunities_PLoSNTD.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -70,6 +70,10 @@ image:
   preview_only: false
 
 links:
+- icon: open-access
+  icon_pack: ai
+  name: publisher
+  url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010188
 - icon:  biorxiv
   icon_pack: ai
   name: bioRxiv
