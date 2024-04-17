@@ -48,6 +48,10 @@ links:
   icon_pack: fas
   name: Roz Laing
   url: https://www.gla.ac.uk/schools/bohvm/staff/rozlaing/
+- icon: male
+  icon_pack: fas
+  name: Steve Doyle
+  url: https://stephenrdoyle.github.io/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
