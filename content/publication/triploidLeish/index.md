@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Genome Analysis of Triploid Hybrid Leishmania Parasite from the Neotropics"
-authors: >
+authors:
 - F. Van den Broeck
 - S. Heeren
 - I. Maes
