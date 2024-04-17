@@ -46,7 +46,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:'publication_pdfs/ValdiviaEtAl_2022_ReplacementofLeishmaniainfantumpopulationsinanendemicfocusofvisceralleishmaniasisinBrazil_FrontiersInCellularAndInfectionMicrobiology.pdf'
+url_pdf: 'publication_pdfs/ValdiviaEtAl_2022_ReplacementofLeishmaniainfantumpopulationsinanendemicfocusofvisceralleishmaniasisinBrazil_FrontiersInCellularAndInfectionMicrobiology.pdf'
 url_code:
 url_dataset:
 url_poster:
