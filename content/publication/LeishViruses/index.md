@@ -18,7 +18,7 @@ authors:
 - F. Van den Broeck
 
 date: 2023-12-15T10:09:03+01:00
-doi: ""
+doi: "10.1038/s41467-023-44085-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-04-17T10:09:03+01:00

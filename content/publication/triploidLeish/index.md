@@ -18,7 +18,7 @@ authors:
 
 
 date: 2023-05-01T11:09:38+01:00
-doi: ""
+doi: "10.3201/eid2905.221456"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-04-17T11:09:38+01:00

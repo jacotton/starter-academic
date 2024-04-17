@@ -16,7 +16,7 @@ authors:
 - P. Kropf
 
 date: 2022-12-23T09:55:30+01:00
-doi: ""
+doi: "10.1016/j.isci.2022.105867"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-04-17T09:55:30+01:00
