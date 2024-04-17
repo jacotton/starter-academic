@@ -84,7 +84,7 @@ image:
   preview_only: false
 
 links:
-- icon:  medrxiv
+- icon:  biorxiv
   icon_pack: ai
   name: medRxiv
   url: https://www.medrxiv.org/content/10.1101/2021.12.14.21267767v1
