@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Comparative genomics of the major parasitic worms"
-authors: - 
-International Helminth Genomes Consortium
+authors: 
+- International Helminth Genomes Consortium
 date: 2018-11-05T16:09:44+01:00
 doi: "10.1038/s41588-018-0262-1"
 
