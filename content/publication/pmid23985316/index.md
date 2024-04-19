@@ -72,7 +72,7 @@ caption: ''
 focal_point: ""
 preview_only: false
 
-projects: [anthelminthics]
+projects: [anthelminthics,refgenomes]
 #- example woudl ref. project in contents/project/example/index.md
 
 slides: ""

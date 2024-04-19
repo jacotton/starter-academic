@@ -51,7 +51,7 @@ caption: ''
 focal_point: ""
 preview_only: false
 
-projects: []
+projects: [refgenomes]
 #- example woudl ref. project in contents/project/example/index.md
 
 slides: ""
