@@ -2,9 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Comparative genomics of the major parasitic worms"
-authors: 
-- International Helminth Genomes Consortium
-date: 2018-11-05T16:09:44+01:00
+authors: International Helminth Genomes Consortium
+date: "2018-11-05T16:09:44+01:00"
 doi: "10.1038/s41588-018-0262-1"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,8 +16,8 @@ publishDate: 2024-04-19T16:09:44+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Genetics* 51:163–174
-publication_short: ""
+publication: In *Nature Genetics* 51\:163–174
+#publication_short: ""
 
 abstract: >
   Parasitic nematodes (roundworms) and platyhelminths (flatworms) cause debilitating chronic infections of humans and animals, decimate crop production and are a major impediment to socioeconomic development. Here we report a broad comparative study of 81 genomes of parasitic and non-parasitic worms. We have identified gene family births and hundreds of expanded gene families at key nodes in the phylogeny that are relevant to parasitism. Examples include gene families that modulate host immune responses, enable parasite migration though host tissues or allow the parasite to feed. We reveal extensive lineage-specific differences in core metabolism and protein families historically targeted for drug development. From an in silico screen, we have identified and prioritized new potential drug targets and compounds for testing. This comparative genomics resource provides a much-needed boost for the research community to understand and combat parasitic worms.
