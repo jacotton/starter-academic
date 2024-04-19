@@ -52,7 +52,7 @@ caption: ''
 focal_point: ""
 preview_only: false
 
-projects: []
+projects: [guineaworm]
 #- example woudl ref. project in contents/project/example/index.md
 
 slides: ""
