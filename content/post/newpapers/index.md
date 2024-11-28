@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-After a couple of years without updates, i've at least managed to update the publication list, which I tihnk is now completely up-to-date. I've also linked papers to projects a bit more thoroughly. I'll try and find time to add some information about some new projects in the next few months.
+After a couple of years without updates, i've at least managed to update the publication list, which I think is now completely up-to-date. I've also linked papers to projects a bit more thoroughly. I'll try and find time to add some information about some new projects in the next few months.
