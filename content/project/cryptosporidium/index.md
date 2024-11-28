@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Cryptosporidium virulence and transmission in dairy calves"
+title: "Cryptosporidium genetics and genomics"
 summary: ""
 authors: []
 tags: []
@@ -39,4 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-PhD student [Lilly Atkins](https://www.gla.ac.uk/pgrs/lillyatkins/) is working with [Emily Hotchkiss](https://www.gla.ac.uk/schools/bohvm/staff/emilyhotchkiss/) and I to develop more discriminatory methods to genotype *Cryptosporidium parvum*, and then use them to study the transmission of *Cryptosporidium* within and betwen dairy herds in Scotland and to investigate whether or not *Cryptosporidium* genotype appears to explain any of the variation in virulence among infected calves.
+I've worked on Cryptosporidium genomics in collaboration with [Carol Gilchrist](https://med.virginia.edu/faculty/faculty-listing/cg2p/) and [Bill Petri](https://med.virginia.edu/faculty/faculty-listing/wap3g/) at the University of Virginia and their colleagues at ICDDR,B in Dhaka to generate some genomic data from a cohort of  Bangaldesh children with diarrhoeal disease. I also contributed to an improved reference genome for *C. parvum*.
+
+In Glasgow, PhD student [Lilly Atkins](https://www.gla.ac.uk/pgrs/lillyatkins/) is working with [Emily Hotchkiss](https://www.gla.ac.uk/schools/bohvm/staff/emilyhotchkiss/) and I to develop more discriminatory methods to genotype *Cryptosporidium parvum*, and then use them to study the transmission of *Cryptosporidium* within and betwen dairy herds in Scotland and to investigate whether or not *Cryptosporidium* genotype appears to explain any of the variation in virulence among infected calves.
