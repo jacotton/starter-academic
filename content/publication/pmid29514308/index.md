@@ -65,7 +65,7 @@ caption: ''
 focal_point: ""
 preview_only: false
 
-projects: [Cryptosporidium]
+projects: [cryptosporidium]
 #- example woudl ref. project in contents/project/example/index.md
 
 slides: ""
